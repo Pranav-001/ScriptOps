@@ -1,0 +1,4 @@
+configparser==6.0.0
+python-dotenv==1.0.0
+psycopg2-binary==2.9.7
+suraasa.resources==1.10.24
